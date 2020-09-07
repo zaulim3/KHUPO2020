@@ -1,0 +1,17 @@
+Molecule List Name ,Precursor Name ,Precursor Charge,"Product
+m/z",Precursor Formula,"Precursor
+Adduct",Label,Precusor m/z,Product Charge
+DNA adduct,5hmc,1,145.1,C10H15N3O5,[M3H2+H],heavy,261.2,1
+DNA adduct,5hmc,1,127.2,C10H15N3O5,[M3H2+H],heavy,261.2,1
+DNA adduct,5hmc,1,117.1,C10H15N3O5,[M3H2+H],heavy,261.2,1
+DNA adduct,5hmc,1,142.1,C10H15N3O5,[M+H],,258.1,1
+DNA adduct,5hmc,1,124.2,C10H15N3O5,[M+H],,258.1,1
+DNA adduct,5hmc,1,114.1,C10H15N3O5,[M+H],,258.1,1
+DNA adduct,5mc,1,129.1,C10H15N3O4,[M3H2+H],heavy,245.2,1
+DNA adduct,5mc,1,117.2,C10H15N3O4,[M3H2+H],heavy,245.2,1
+DNA adduct,5mc,1,126.1,C10H15N3O4,[M+H],,242.2,1
+DNA adduct,5mc,1,114.2,C10H15N3O4,[M+H],,242.2,1
+DNA,G,1,152.1,C10H13N5O4,[M+H],,268.3,1
+DNA,C,1,112.1,C9H13N3O4,[M+H],,228.1,1
+DNA,T,1,127,C10H14N2O5,[M+H],,243.1,1
+DNA,A,1,136,C10H13N5O3,[M+H],,252.2,1
